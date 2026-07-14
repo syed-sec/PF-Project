@@ -4,17 +4,13 @@
 
 | | |
 |---|---|
-| **Subject** | *[Programming Fundamentals Theory]* |
-| **Program** | *[BS Cyber Security]* |
-| **University** | *[The Superior University, Lahore]* |
-| **Instructor** | *[Prof. Zeeshan Mubeen]* |
-| **Academic Session** | *[2025-2029]* |
+| **Subject** | *Programming Fundamentals Theory* |
+| **Program** | *BS Cyber Security* |
+| **University** | *The Superior University, Lahore* |
+| **Instructor** | *Prof. Zeeshan Mubeen* |
+| **Academic Session** | *2025-2029* |
 | **Project Type** | Group Project |
 | **Language** | C++ |
-
-> ℹ️ **Group members:** the same details are shown inside the program on the **About Project** screen (`Functions/AboutProject/AboutProject.cpp`). If you change them here, change them there too.
-
----
 
 ## 1. Introduction
 
